@@ -1,5 +1,4 @@
 # azure-serverless-training1
- training 1
+ Author: Mike Franklin
 
-My first Azure function
-Mike
+ 
